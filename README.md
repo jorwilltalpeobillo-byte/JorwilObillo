@@ -1,51 +1,36 @@
-# JorwilObillo
+# 👋 Hello, I'm Jorwil Obillo
 
-# My Profile
-# 👋 Hello, I'm Jorwil Obillo 
-I am an IT student developing my skills in programming and web development, and I’m committed to continuous learning as I grow in the field.
+### About Me
+I am Jorwil Obillo, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the BS Information Technology program.
 
---
+---
 
-🎓 Education
+### 🎓 Education
+* **Bachelor of Science in Information Technology (BSIT)**
+  New Era University
+  2026 - Present
 
-Bachelor of Science in Information Technology (BSIT) 
-New Era University
+---
 
---
+### 🏅 Certifications
+* [SQL and Relational Databases 101] https://courses.cognitiveclass.ai/certificates/40b141b7acac4ca483ee13da5a634a67
+* [NoSQL and DBaaS 101] https://courses.cognitiveclass.ai/certificates/e53cb228ddee49a292167e08b48fb039
 
-🏅 Certifications
+* [Oracle Fusion AI Agent Studio Certified Foundations Associate - Rel 1] https://catalog-education.oracle.com/ords/certview/sharebadge?id=E3136629E5896CD01091193979C71E41700B4E436FBD978988ED0BDA8811E0BB
 
-https://courses.cognitiveclass.ai/certificates/40b141b7acac4ca483ee13da5a634a67
+* Oracle Data Platform 2025 Certified Foundations Associate] https://catalog-education.oracle.com/ords/certview/sharebadge?id=BE6C0807BBB67AF402406B10FB95C16119C7D0D3A11AF57877D7F4BA9F4D909B
 
-https://catalog-education.oracle.com/pls/certview/sharebadge?id=E3136629E5896CD01091193979C71E41700B4E436FBD978988ED0BDA8811E0BB
+* [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate] https://catalog-education.oracle.com/ords/certview/sharebadge?id=77635D21845D26CD3D6BC2D5461E087616E2CBB07A71D31E6298933DCDF21277
 
-https://catalog-education.oracle.com/pls/certview/sharebadge?id=BE6C0807BBB67AF402406B10FB95C16119C7D0D3A11AF57877D7F4BA9F4D909B
+---
 
-https://catalog-education.oracle.com/pls/certview/sharebadge?id=77635D21845D26CD3D6BC2D5461E087616E2CBB07A71D31E6298933DCDF21277
+### 💻 Skill Sets
+* **Programming:** HTML, CSS, JavaScript, PHP, SQL
+* **Technologies & Tools:** Git, GitHub, VS Code, JSON
+* **Development & Other Skills:** Basic Frontend & Backend Development, Problem-solving, System Analysis, Interface Layouting
 
-https://courses.cognitiveclass.ai/certificates/e53cb228ddee49a292167e08b48fb039
+---
 
-
---
-
-💻 Skillsets
-
-Programming Languages: HTML, CSS, JavaScript, PHP, SQL
-Technologies & Tools: Git, GitHub, VS Code, JSON
-Development Skills: Basic Frontend & Backend development
-Other Skills: Problem-solving, system analysis, interface layouting
-
---
-
-📬 Contact
-
-jorwilltalpeobillo@gmail.com
-
-
-**Name:** Jorwil Obillo  
-**Education:** BS in Information Technology, New Era University 
-**Certifications:** SQL and Relational Databases 101 (Cognitive Class), NoSQL and DBaaS 101  
-**Skillsets:** SQL, Database Management, Problem Solving, Critical Thinking, Basic Programming, Teamwork  
-**Certifications:** SQL and Relational Databases 101.
-https://courses.cognitiveclass.ai/certificates/40b141b7acac4ca483ee13da5a634a67
-https://courses.cognitiveclass.ai/certificates/e53cb228ddee49a292167e08b48fb039
+### 📫 You may reach me at:
+* **LinkedIn:** https://www.linkedin.com/in/jorwil-obillo-67b743399/
+* **Email:** jorwilltalpeobillo@gmail.com
